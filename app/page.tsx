@@ -77,7 +77,7 @@ export default function Home() {
       </div>
       <div style={{ marginTop: "-70px" }} className={styles.container}>
         <div className={styles.centered}>
-          <div className={styles.text}>Hey, I'm Jakub </div>
+          <div className={styles.text}>Hey, I&apos;m Jakub </div>
           {loading ? (
             <Preloader />
            ) : (
@@ -100,16 +100,16 @@ export default function Home() {
                 <ModalHeader className="flex flex-col gap-1">More about me</ModalHeader>
                 <ModalBody>
                   <p> 
-                    You are probably more interested in things about me, so I'm passionate with programming since age of 7, I started with easy batch (.bat) scripts, now I am mastering my JavaScript skills while learning Next.js.
+                    You are probably more interested in things about me, so I&apos;m passionate with programming since age of 7, I started with easy batch (.bat) scripts, now I am mastering my JavaScript skills while learning Next.js.
                   </p>
                   <p>
-                    I am interested in computers, programming and cyber-sec as a whole. I like to work on physical electronics like computers (PC's and laptops), TV's, engines from anything.
+                    I am interested in computers, programming and cyber-sec as a whole. I like to work on physical electronics like computers (PC&apos;s and laptops), TV&apos;s, engines from anything.
                   </p>
                   <p>
-                    Mainly I use JavaScript and TypeScript (this website is using it), but I also know other programming languages but not at the same level as previously mentioned ones and I'm actively extending my knowladge at other languages. 
+                    Mainly I use JavaScript and TypeScript (this website is using it), but I also know other programming languages but not at the same level as previously mentioned ones and I&apos;m actively extending my knowladge at other languages. 
                   </p>
                   <p>
-                    Over the course of my programming career I have worked on many project's but I have always failed to release them or just lost them with time. I like to work with a team on ambitous projects that would make a diffrence.
+                    Over the course of my programming career I have worked on many project&apos;s but I have always failed to release them or just lost them with time. I like to work with a team on ambitous projects that would make a diffrence.
                   </p>
                   <p><strong>Known programming languages</strong></p>
                   <div className="flex gap-4 items-center">
